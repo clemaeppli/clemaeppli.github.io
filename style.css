@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap);
 @import url(https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Condensed&display=swap);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Fira+Mono&display=swap);
 
 body {
@@ -14,10 +15,10 @@ body {
     color: #333;
 }
 
-h1, h2, h3, h4, h5 { font-family: IBM Plex Sans;
+h1, h2, h3, h4, h5 { font-family: PT Serif;
                      font-weight: bold;
                      border-bottom: 1px dotted black;
-                     color: #7a5ada; }
+                     color: #228B22; }
 h1 {
         font-size: 140%;
 }
