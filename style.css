@@ -15,7 +15,7 @@ body {
     color: #333;
 }
 
-h1, h2, h3, h4, h5 { font-family: PT Serif, serif;
+h1, h2, h3, h4, h5 { font-family: serif;
                      font-weight: bold;
                      border-bottom: 1px dotted black;
                      color: #228b22; }
