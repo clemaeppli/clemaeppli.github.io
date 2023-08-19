@@ -9,13 +9,13 @@ body {
     padding-left: 1em;
     max-width: 88em;
     color: black;
-    font-family: PT Serif, serif;
+    font-family: PT Serif, sans-serif;
     font-size: 150%;
     line-height: 140%;
     color: #333;
 }
 
-h1, h2, h3, h4, h5 { font-family: serif;
+h1, h2, h3, h4, h5 { font-family: PT Serif, sans-serif;
                      font-weight: bold;
                      border-bottom: 1px dotted black;
                      color: #228b22; }
