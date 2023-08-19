@@ -1,7 +1,7 @@
-# MadeUpName
-## PhD Student, MadeUpPlace
+# Clem Aeppli
+## PhD student at Harvard University, Sociology Department
 
-email: __madeUpName@madeUpDomain.edu__
+email: __caeppli@g.harvard.edu__
 
 ## Research
 
