@@ -5,9 +5,11 @@
 
 body {
     margin: auto;
-    padding-right: 10em;
-    padding-left: 10em;
-    max-width: 88em;
+    padding-top: 5%;
+    padding-right: 5%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+    max-width: 50em;
     color: black;
     font-family: PT Serif, sans-serif;
     font-size: 100%;
