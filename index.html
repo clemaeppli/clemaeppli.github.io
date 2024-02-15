@@ -18,10 +18,8 @@
       vertical-align: middle;
     }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    .headshotDiv { width:3cm;right:0px;top:0px;border:1px solid gray; position:relative; float:right; }
     .headshot {
-            position: absolute;
-            top: 0;
-            right: 0;
             max-width: 50%; /* Ensure the image doesn't exceed its container */
             max-height: 50%; /* Ensure the image doesn't exceed its container */
             width: 3cm; /* Set the width to 3cm */
@@ -36,7 +34,9 @@
 <body>
   <div>
       <h1 id="madeupname">Clem Aeppli</h1>
-      <img src="APPAMv3.jpg" alt="Headshot" class="headshot">
+      <div class="headshotDiv">
+        <img src="APPAMv3.jpg" alt="Headshot" class="headshot">
+      </div>
       <p id="phd-student-madeupplace">PhD Student, Harvard University Department of Sociology</p>
       <p>email: <strong>caeppli@g.harvard.edu</strong></p>
         I study how the organization of work affects inequality and instability.
